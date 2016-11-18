@@ -1,2 +1,5 @@
-# ionic-demo-layout
-ionic-demo-layout
+# react-native-layout
+react-native-layout
+
+# Install
+npm install
